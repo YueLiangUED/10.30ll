@@ -5,7 +5,7 @@ section>div{
     box-sizing: border-box;
     padding: .08rem .38rem 0;
     width: 7.5rem;
-    height: 12.95rem;
+    height: 12rem;
     background: url("../images/subPageBg.png") center no-repeat;
     background-size: cover;
 }
