@@ -3,9 +3,9 @@ section{
 }
 section>div{
     box-sizing: border-box;
-    padding: .08rem .38rem 0;
+    padding: .08rem .38rem .5rem;
     width: 7.5rem;
-    height: 12.08rem;
+    height: 14.23rem;
     background: url("../images/subPageBg.png") center no-repeat;
     background-size: cover;
 }
@@ -20,6 +20,9 @@ section>div p{
     font-size: .24rem;
     text-indent: 2em;
     color: #ffffff;
+}
+section>div .title{
+    margin: .1rem 0;
 }
 section>div .title.sec{
     box-sizing: border-box;
@@ -44,7 +47,7 @@ section>div .title span:nth-child(1){
     background-color: #ffe63c;
 }
 section>div .tableBox{
-    margin: .1rem 0;
+    margin: .2rem 0;
     width: 6.74rem;
     height: 7.7rem;
     background: url("../images/subTable.png") center no-repeat;
