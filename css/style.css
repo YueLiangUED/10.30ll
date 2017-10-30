@@ -5,6 +5,7 @@ header{
 }
 header>div:nth-child(1){
     box-sizing: border-box;
+    margin-top: -.2rem;
     padding: .6rem .4rem 0 0;
     width: 7.5rem;
     height: 8.49rem;
@@ -30,7 +31,7 @@ header>div:nth-child(2){
     position: absolute;
     left: 0;
     right: 0;
-    bottom: .05rem;
+    bottom: -0.1rem;
     margin: auto;
     width: 6.65rem;
     height: 2.61rem;
@@ -41,9 +42,9 @@ header>div:nth-child(2){
 footer{
     overflow: hidden;
     position: relative;
-    margin-top: -1.2rem;
+    margin-top: -1rem;
     width: 7.5rem;
-    height: 2.5rem;
+    height: 2.8rem;
 }
 footer>div{
     box-sizing: border-box;
