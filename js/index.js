@@ -18,13 +18,13 @@ $(function () {
         $img.animate({
             width: '90%',
             height: '90%'
-        },function () {
+        },350,function () {
             $img.animate({
                 width: '100%',
                 height: '100%'
-            })
+            },350)
         });
-    },1000);
+    },800);
     //马上推荐按钮
     $('#btn').on('click',function () {
 
